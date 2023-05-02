@@ -1,0 +1,15 @@
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\bin\Debug\net7.0\Example001_Hello.exe
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\bin\Debug\net7.0\Example001_Hello.deps.json
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\bin\Debug\net7.0\Example001_Hello.runtimeconfig.json
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\bin\Debug\net7.0\Example001_Hello.dll
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\bin\Debug\net7.0\Example001_Hello.pdb
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.csproj.AssemblyReference.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.AssemblyInfoInputs.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.AssemblyInfo.cs
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.csproj.CoreCompileInputs.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.dll
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\refint\Example001_Hello.dll
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.pdb
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\Example001_Hello.genruntimeconfig.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\obj\Debug\net7.0\ref\Example001_Hello.dll
