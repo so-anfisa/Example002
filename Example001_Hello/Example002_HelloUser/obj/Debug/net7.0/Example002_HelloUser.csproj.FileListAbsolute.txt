@@ -1,0 +1,15 @@
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Учеба GeekBrains Анфиса\1 четверть\Введение в C#\Examples002\Example001_Hello\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
